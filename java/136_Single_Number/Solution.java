@@ -1,22 +1,17 @@
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.Arrays;
 
 public class Solution {
     // intuitive approach by sorting the array
     // and finding unidentical neighbor
     public int singleNumber(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        for (int num : nums) {
-            list.add(num);
-        }
-        Collections.sort(list);
-        int seen = list.get(0);
-        for (int i = 1; i < list.size(); i++) {
-            if (i % 2 == 1 && seen != list.get(i)) {
+        Arrays.sort(nums);
+        int seen = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            if (i % 2 == 1 && seen != nums[i]) {
                 return seen;
             } else {
-                seen = list.get(i);
+                seen = nums[i];
             }
         }
         return seen;
