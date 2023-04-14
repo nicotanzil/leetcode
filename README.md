@@ -15,6 +15,7 @@ Leetcode Problem Solutions
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman)                             | [Java](./java/012_Integer_to_Roman/Solution.java)               | Medium     |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                             | [Java](./java/013_Roman_to_Integer/Solution.java)               | Easy       |
 | 15  | [3Sum](https://leetcode.com/problems/3sum)                                                     | [Java](./java/015_3Sum/Solution.java)                           | Medium     |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                           | [Java](./java/020_Valid_Parentheses/Solution.java)              | Easy       |
 | 48  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                     | [Java](./java/048_Rotate_Image/Solution.java)                   | Medium     |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                               | [Java](./java/056_Merge_Intervals/Solution.java)                | Medium     |
 | 59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)                             | [Java](./java/059_Spiral_Matrix_II/Solution.java)               | Medium     |
