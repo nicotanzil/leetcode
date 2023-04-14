@@ -22,6 +22,7 @@ Leetcode Problem Solutions
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element)                             | [Java](./java/169_Majority_Element/Solution.java)               | Easy       |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)     | [Java](./java/238_Product_of_Array_Except_Self/Solution.java)   | Medium     |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)                   | [Java](./java/240_Search_a_2D_Matrix_II/Solution.java)          | Medium     |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern)                                     | [Java](./java/290_Word_Pattern/Solution.java)                   | Easy       |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [Java](./java/334_Increasing_Triplet_Subsequence/Solution.java) | Medium     |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)                         | [Java](./java/409_Longest_Palindrome/Solution.java)             | Easy       |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings)                                       | [Java](./java/415_Add_Strings/Solution.java)                    | Easy       |
