@@ -17,6 +17,7 @@ Leetcode Problem Solutions
 | 15  | [3Sum](https://leetcode.com/problems/3sum)                                                                   | [Java](./java/015_3Sum/Solution.java)                                  | Medium     |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest)                                                   | [Java](./java/016_3Sum_Closest/Solution.java)                          | Medium     |
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java](./java/017_Letter_Combinations_of_a_Phone_Number/Solution.java) | Medium     |
+| 18  | [4Sum](https://leetcode.com/problems/4sum)                                                                   | [Java](./java/018_4Sum/Solution.java)                                  | Medium     |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                         | [Java](./java/020_Valid_Parentheses/Solution.java)                     | Easy       |
 | 48  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                                   | [Java](./java/048_Rotate_Image/Solution.java)                          | Medium     |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                             | [Java](./java/056_Merge_Intervals/Solution.java)                       | Medium     |
