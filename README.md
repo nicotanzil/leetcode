@@ -19,6 +19,7 @@ Leetcode Problem Solutions
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java](./java/017_Letter_Combinations_of_a_Phone_Number/Solution.java) | Medium     |
 | 18  | [4Sum](https://leetcode.com/problems/4sum)                                                                   | [Java](./java/018_4Sum/Solution.java)                                  | Medium     |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                         | [Java](./java/020_Valid_Parentheses/Solution.java)                     | Easy       |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                               | [Java](./java/021_Merge_Two_Sorted_Lists/Solution.java)                | Easy       |
 | 48  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                                   | [Java](./java/048_Rotate_Image/Solution.java)                          | Medium     |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                             | [Java](./java/056_Merge_Intervals/Solution.java)                       | Medium     |
 | 59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)                                           | [Java](./java/059_Spiral_Matrix_II/Solution.java)                      | Medium     |
